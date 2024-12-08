@@ -20,3 +20,15 @@
 
 # another problem
 
+# ? Ternary operator
+
+# age = (int(input("enter your age:")))
+
+# print("voting is valid") if age>=20 else print("voting in invalid")
+
+
+# ? odd or even 
+
+number = 6 
+print("odd") if (number%2==0) else print("even") 
+
