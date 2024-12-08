@@ -9,11 +9,14 @@
 
 # ! if else statement 
 
-age = 18
+# age = 18
 
-if age>=18:
-  print("it is eleigble for vote")
-else :
-    print("it is not eleible for vote")
+# if age>=18:
+#   print("it is eleigble for vote")
+# else :
+#     print("it is not eleible for vote")
 
-    print("program ended here ")
+#     print("program ended here ")
+
+# another problem
+
