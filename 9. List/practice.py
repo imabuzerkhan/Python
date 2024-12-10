@@ -36,4 +36,12 @@ print(pop)
 
 remove = [1,3,5,1,5,2,6,7,3,6,7]
 remove.remove(7)   #* its delete the first occurence of data
-print(remove)
+print(remove)  
+
+# ! insert
+
+data = ["a","b","c","d"]
+data.insert(0 , "abuzer")
+print(len(data))
+
+# !
