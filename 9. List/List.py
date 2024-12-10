@@ -4,8 +4,9 @@
 
 # ? first example of list
 
-marks = [90, 98.3 , 26 , 45 , 67]
-marks[2] = "Abuzer khan"  # it is possible to chnge the list data because it is mutable / changeable 
+#! marks = [90, 98.3 , 26 , 45 , 67]
+marks = ["sachin" , "sumit" , "danish"]
+marks[1] = "Abuzer khan"  
 print(marks)
 print(type(marks))
 print(len(marks))
