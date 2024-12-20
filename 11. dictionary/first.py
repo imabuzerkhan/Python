@@ -9,6 +9,9 @@ object = {
   "mother name" : "rehan khatoon"
 }
 
+object["name"] = "khan bhai"  #! we can also change the existing value in dict
+object ["hobby"] = ["cricket" , "playing" , "singing"] ,
+
 print(object)
 access = object["name"]
 print(access)
