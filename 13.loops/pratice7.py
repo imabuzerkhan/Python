@@ -2,6 +2,6 @@
 
 fact = 1 
 
-for i in range (1 ,10):
+for i in range (1 ,4):
   fact *= i ;
 print(f"the factorial of nine is {fact} ")
