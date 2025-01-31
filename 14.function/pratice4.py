@@ -1,5 +1,7 @@
 import math
 def circle(radius) :
-  return round (math.pi ** radius , 4)
-result = circle(4)
+  CircleVal =  round (math.pi ** radius * 2 , 2)
+  Circumference = round ( 2 * math.pi ** radius , 2)
+  return CircleVal , Circumference
+result = circle(2)
 print(result) 
